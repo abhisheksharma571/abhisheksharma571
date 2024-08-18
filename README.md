@@ -1,8 +1,5 @@
 # Hi there, I'm Abhishek Sharma 👋
 
-<img src="https://raw.githubusercontent.com/abhisheksharma571/Profile-Photo/main/ProfilePhoto.jpg" alt="Profile Photo" style="border-radius: 50%; border: 5px solid #FFA75C;">
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Full+Stack+Developer;Tech+Enthusiast)
 
 As a passionate web developer intern at JKSD Infotech Pvt. Ltd., I am honing my skills in creating dynamic, user-friendly web applications. My role involves collaborating with a dedicated team to build and enhance web solutions that meet client needs. I work with a variety of technologies including HTML, CSS, JavaScript, React, and Node.js to deliver high-quality projects.
